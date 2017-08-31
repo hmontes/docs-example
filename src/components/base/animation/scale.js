@@ -1,0 +1,21 @@
+const scale = `
+  .scale-enter {
+    transform: scale(0);
+  }
+
+  .scale-enter.scale-enter-active {
+    transform: scale(1);
+    transition: all .3s ease-in-out;
+  }
+
+  .scale-exit {
+    transform: scale(1);
+  }
+
+  .scale-exit.scale-exit-active {
+    transform: scale(0);
+    transition: all .3s ease-in-out;
+  }
+`
+
+export default scale
