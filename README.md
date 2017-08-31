@@ -4,7 +4,7 @@ Este archivo es una demostración simple de React Styleguidist y Storybook para 
 
 ## Code Example
 
-Puedes ver la documentación de ejemplo en http://hmontes.github.io/docs-example
+Puedes ver la documentación de ejemplo en http://hmontes.github.io/docs-example/
 
 ## Motivación
 
